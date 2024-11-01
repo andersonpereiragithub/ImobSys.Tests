@@ -26,9 +26,9 @@ namespace ImobSys.Tests
                 AreaUtil = 120.5f
             };
 
-            _repository.Salvar(imovel);
+            _repository.SalvarImovel(imovel);
 
-            var result = _repository.BuscarPorId(imovel.Id);
+            var result = _repository.BuscarPorIdImovel(imovel.Id);
             Assert.NotNull(result); 
             Assert.Equal("123456", result.InscricaoIPTU);
 
