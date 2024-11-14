@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImobSys.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c6a84d7de0778dd3dfcfa170a9522b651070755")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3345c1da4d0ab4a644b4283a7dc41050f19aab08")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImobSys.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImobSys.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
